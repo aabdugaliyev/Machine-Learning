@@ -1,0 +1,9 @@
+c:\users\aabdu\onedrive\документы\visual studio 2015\Projects\ML\ML\bin\Debug\ML.exe.config
+c:\users\aabdu\onedrive\документы\visual studio 2015\Projects\ML\ML\obj\Debug\ML.csprojResolveAssemblyReference.cache
+c:\users\aabdu\onedrive\документы\visual studio 2015\Projects\ML\ML\obj\Debug\ML.Properties.Resources.resources
+c:\users\aabdu\onedrive\документы\visual studio 2015\Projects\ML\ML\obj\Debug\ML.csproj.GenerateResource.Cache
+c:\users\aabdu\onedrive\документы\visual studio 2015\Projects\ML\ML\bin\Debug\ML.exe
+c:\users\aabdu\onedrive\документы\visual studio 2015\Projects\ML\ML\bin\Debug\ML.pdb
+c:\users\aabdu\onedrive\документы\visual studio 2015\Projects\ML\ML\obj\Debug\ML.exe
+c:\users\aabdu\onedrive\документы\visual studio 2015\Projects\ML\ML\obj\Debug\ML.pdb
+C:\Users\aabdu\OneDrive\документы\visual studio 2015\Projects\ML\ML\obj\Debug\ML.form.resources
